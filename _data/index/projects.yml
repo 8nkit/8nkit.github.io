@@ -1,0 +1,75 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Length of Stay Predication
+  gh_user: krishna-sharma19
+  repo: sparcs
+  img: /static/assets/img/landing/los.jpg
+  desc: Advance project under the guidance of Prof Jonas Almeida, worked with the Biomedical department and Health Dataset to predict length of Stay of a patient using TensorFlow and deep learning.
+
+- name: Dockerizing data pipelines
+  gh_user: hirenmayani
+  repo: Dockers4HealthCareDB2HDF52ML
+  img: /static/assets/img/landing/docker.jpg
+  desc: Advance project under the guidance of Prof Janos Hadgagos, worked with docker compose to synchronize multiple dockers whose data is coming from different databases like Vertica and MySQL. 
+
+- name: Parallel Computing Coursework and Project
+  gh_user: hirenmayani
+  repo: ParallelProgramming
+  img: /static/assets/img/landing/parallel.jpg
+  desc: Parallel computing assignments like matrix multiplication, MST and MPI
+
+- name: Machine Learning
+  gh_user: krishna-sharma19
+  repo: MachineLearning
+  img: /static/assets/img/landing/ml.jpg
+  desc: Machine Learning concepts
+
+- name: Similar Location detector
+  gh_user: krishna-sharma19
+  repo: Big-Data-Assignments
+  img: /static/assets/img/landing/geosimilar.jpg
+  desc: Found similar regions of Long Island by comparing satellite imagery.Implemented Locality Sensitive Hashing, Principal Component Analysis and dimensionality reduction.
+
+- name: Comment Analyzer
+  gh_user: krishna-sharma19
+  repo: Comment-Analyzer
+  img: /static/assets/img/landing/analytics.jpg
+  desc: Comment-Analyzer is a project for processing comments using Natural Language processing for classifying comments as positive, negative and neutral. It uses python and nltk for classifying comments.
+
+- name: Website Monitoring Application
+  gh_user: krishna-sharma19
+  repo: Status-Monitor
+  img: /static/assets/img/landing/monitoring.png
+  desc: Website Monitoring app is an android application for monitoring different websites for updates. This application automates clicks and actions by user on a website and stores them. This application performs automated clicks and autofills forms.
+
+- name: Data Reporting app 
+  i18n: cpython
+  gh_user: krishna-sharma19
+  repo: Site-Monitor
+  img: /static/assets/img/landing/android.jpg
+  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+
+- name: Climate Data Analysis
+  i18n: cpython
+  gh_user: krishna-sharma19
+  repo: Big_Data_Project
+  img: /static/assets/img/landing/bigdata.jpg
+  desc: Analyze large climate dataset (Global Daily Summary) to detect patterns.
+
+- name: Computer Vision Coursework
+  i18n: cpython
+  gh_user: krishna-sharma19
+  repo: Computer-Vision-Assignments
+  img: /static/assets/img/landing/wordcloud.png
+  desc: Segmentation, Face Detection and Tracking, Image stitching
+
+- name: Pacman Project
+  i18n: cpython
+  img: /static/assets/img/landing/pac-man-pacman-mobile-game.png
+  desc: Write algorithms like BFS, DFS, Astar search, alpha beta pruning and Naive Bayes in <a href="http://ai.berkeley.edu/project_overview.html"> Pacman </a> setting to find food 
+
+- name: Book selling and exchanging Platform
+  i18n: cpython
+  img: /static/assets/img/landing/20140508105531-share-01.jpg
+  desc: exchange, sell and buy books
