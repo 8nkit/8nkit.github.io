@@ -1,26 +1,26 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Krishna Sharma
-description: Krishna Sharma's personal website
-keywords: Krishna,Jalpc,blog,Jekyll,github,gh-pages
+title: Ankit Sharma
+description: Ankit Sharma's personal website
+keywords: Ankit,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://krishna-sharma19.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://8nkit.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your information.
   name: GitHub  # Be used at blog posts' author.
-  first_name: Sharma  # Be used at index page about me section.
-  last_name: Ankit  # Be used at index page about me section.
+  first_name: Ankit  # Be used at index page about me section.
+  last_name: Sharma  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: 8nkit  # Leave blank if you don't have now
-  linkedin_id: krishna-sharma19 # Leave blank if you don't have now
-  facebook_username: krishna.1sha  # Leave blank if you don't have now
-  twitter_username:   # Leave blank if you don't have now
-  email: skrishna@cs.stonybrook.edu  # Leave blank if you don't have now
-  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
+  linkedin_id: 8nkit # Leave blank if you don't have now
+  facebook_username: 8nkit  # Leave blank if you don't have now
+  twitter_username: 8nkit  # Leave blank if you don't have now
+  email: enbact@gmail.com  # Leave blank if you don't have now
+  cv: https://drive.google.com/file/d/12NEOTntUewf8oQo41DfBi-Y_HKGPd73i/view?usp=sharing  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
