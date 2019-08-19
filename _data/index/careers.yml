@@ -1,33 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Stony Brook University
+    detail: Jaypee University Anoopshahr
     i18n: company_a
   desc:
-    detail: I am a final year Computer Science Graduate student at Stony Brook University and my current GPA is 3.54
+    detail: I am a 3rd year Computer Science Engineering student at Jaypee University and my current CGPA is 8.0
     i18n: company_a_desc
   date:
-    detail: Aug 2017 - Dec 2018
+    detail: May 2017 - May 2021
     i18n: company_a_date
 
 - name:
-    detail: Google
+    detail: B.K. Senior Secondary School
     img: /static/assets/img/landing/android.jpg
     i18n: company_a
   desc:
-    detail: Summer Internship at Google
+    detail: HSC with 72% (CBSE)
     i18n: company_a_desc
   date:
-    detail: May 2018 - Aug 2018
+    detail: May 2017 
     i18n: company_a_date
   
 - name:
-    detail: Lakshmi Narain College of Technology, Bhopal
+    detail: B.K. Senior Secondary School
     i18n: company_b
   desc:
-    detail: I completed my Undergraduate degree from LNCT, Bhopal with a GPA of 8.54/10
+    detail: SSC with 9.2 CGPA
     i18n: company_b_desc
   date:
-    detail: Aug 2013 - May 2017
+    detail: May 2015
     i18n: company_b_date
   
