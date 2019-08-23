@@ -3,7 +3,7 @@
 # Website settings
 title: Ankit Sharma
 description: Ankit Sharma's personal website
-keywords: Ankit,Jalpc,blog,Jekyll,github,gh-pages
+keywords: Ankit Sharma , 8nkit
 baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://8nkit.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
