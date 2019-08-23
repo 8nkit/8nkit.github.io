@@ -4,18 +4,18 @@
 - name: Chat Surveillance System
   gh_user: 8nkit
   repo: DAAproject
-  img: /static/assets/img/landing/los.jpg
+  img: /static/assets/img/landing/jekyll.png
   desc: This project is based on finding the cuss words within a chat database and then transfer it by encrypting it & later by reading the same through decryption surplus SMTP technique to send mail through program. It's android version is on the way.
 
 - name: KirayeKa
   gh_user: 8nkit
   repo: Kirayeka
-  img: /static/assets/img/landing/docker.jpg
+  img: /static/assets/img/landing/google.png
   desc: This is project is based on providing goods and services on rent. It is an android application featuring realtime database through google's firebase service. It's website version is on the way. 
 
 - name: Mini Employee Viewer
   gh_user: 8nkit
   repo: mysql-jdbc
-  img: /static/assets/img/landing/parallel.jpg
+  img: /static/assets/img/landing/python.png
   desc: This project is based on viewing the details of employees working in a workspace such as name,salary, etc. It is developed using java awt and mysql.
 
