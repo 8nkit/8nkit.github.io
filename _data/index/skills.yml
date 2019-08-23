@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C, C++,Java, Python, HTML, CSS, Javascipt, MYSQL
-percentage: 60,65,60,50,60,60,40,63
+aspects: C,C++,Java,Python,Android,HTML5,CSS,JavaScript
+percentage: 66,77,65,60,55,60,60,51
