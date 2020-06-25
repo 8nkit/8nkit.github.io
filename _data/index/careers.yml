@@ -1,5 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+
+- name:
+    detail: Mentors Without Borders
+    i18n: company_a
+  desc:
+    detail: Students Mentor
+    i18n: company_a_desc
+  date:
+    detail: June 2020 - Present
+    i18n: company_a_date
+- name:
+    detail: Naaniz Seller Services Pvt. Ltd.
+    i18n: company_a
+  desc:
+    detail: Android Developer (Intern)
+    i18n: company_a_desc
+  date:
+    detail: May 2020 - June 2020
+    i18n: company_a_date
+
 - name:
     detail: Jaypee University Anoopshahr
     i18n: company_a
