@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C, C++, Java, JavaEE, Python, MySql, Android, JavaScript
-percentage: 65, 70, 65, 50, 55, 60, 50, 40
+aspects: C, C++, Java, Python, Database Management, Android, Flutter,Kotlin,React Native 
+percentage: 70, 75, 80, 70, 70, 80, 75, 65, 55
