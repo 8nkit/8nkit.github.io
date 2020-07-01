@@ -1,17 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Watchfulness Android App
+  gh_user: 8nkit
+  repo: DAAproject
+  img: /static/assets/img/landing/project.png
+  desc: Android with Machine learning integrated an App called ‘Watchfulness’.To check the attentiveness of user while watching online lecture in terms of percentage with the help eye motion detection. For further extension of this project , it would act as a feature for online video calling plateform. 
+
+- name: Leaf Blight Detection Android App
+  gh_user: 8nkit
+  repo: DAAproject
+  img: /static/assets/img/landing/project1.png
+  desc: For the purpose of detection of bacterial blight percentage in the plant leaf. Machine Learning Kit is used for implementing features. 
+
 - name: Chat Surveillance System
   gh_user: 8nkit
   repo: DAAproject
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is based on finding the cuss words within a chat database and then transfer it by encrypting it & later by reading the same through decryption surplus SMTP technique to send mail through program. It's android version is on the way.
+  desc: This project is based on finding the cuss words within a chat database and then transfer it by encrypting it & later by reading the same through decryption surplus SMTP technique to send mail through program.
 
 - name: KirayeKa
   gh_user: 8nkit
   repo: Kirayeka
   img: /static/assets/img/landing/google.png
-  desc: This is project is based on providing goods and services on rent. It is an android application featuring realtime database through google's firebase service. It's website version is on the way. 
+  desc: This is project is based on providing goods and services on rent. It is an android application featuring realtime database through google's firebase service. 
 
 - name: Mini Employee Viewer
   gh_user: 8nkit
