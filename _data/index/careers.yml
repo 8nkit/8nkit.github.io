@@ -1,7 +1,23 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-
-
+- name:
+    detail: BYJU'S
+    i18n: company_a
+  desc:
+    detail: Associate Software Engineer 
+    i18n: company_a_desc
+  date:
+    detail: July 2021 - Present 
+    i18n: company_a_date
+- name:
+    detail: Antino Labs Pvt. Ltd.
+    i18n: company_a
+  desc:
+    detail: Android Developer Intern
+    i18n: company_a_desc
+  date:
+    detail: Feb 2021 - June 2021
+    i18n: company_a_date
 - name:
     detail: Mentors Without Borders
     i18n: company_a
@@ -9,13 +25,13 @@
     detail: Students Mentor
     i18n: company_a_desc
   date:
-    detail: June 2020 - Present
+    detail: June 2020 - Sep 2020
     i18n: company_a_date
 - name:
     detail: Naaniz Seller Services Pvt. Ltd.
     i18n: company_a
   desc:
-    detail: Android Developer (Intern)
+    detail: Android Developer Intern
     i18n: company_a_desc
   date:
     detail: May 2020 - June 2020
