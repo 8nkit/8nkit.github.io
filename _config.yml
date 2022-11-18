@@ -19,7 +19,7 @@ author:  # change following line to your information.
   facebook_username: 8nkit  # Leave blank if you don't have now
   twitter_username: 8nkit  # Leave blank if you don't have now
   email: enbact@gmail.com  # Leave blank if you don't have now
-  cv: https://drive.google.com/file/d/12NEOTntUewf8oQo41DfBi-Y_HKGPd73i/view?usp=sharing  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1oaJUYMdsGJwDufj-LvsOlhoK8eVMP4j8/view?usp=sharing  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -27,7 +27,7 @@ author:  # change following line to your information.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a 3rd year computer science engineering student at Jaypee University Anoopshahr.Now I am looking for internship opportunities where I can learn and enchance my skill to grow as an IT professional. 
+  desc: Associate Software Engineer @BYJU'S prior to this I've worked as Android Intern at Antino Labs Pvt. Ltd. and Tech Mentor for Mentors without border. I'm looking for new opportunities in software engineering domain.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
